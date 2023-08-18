@@ -17,4 +17,4 @@ As regras de Pedra-papel-tesoura-lagarto-Spock são:
 .  Pedra amassa tesoura
 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fatitudereflexiva.wordpress.com%2F2016%2F05%2F08%2Fcomo-jogar-pedra-papel-tesoura-lagarto-spock%2F&psig=AOvVaw0QMghu8TMR1z-Qp6HGD8_s&ust=1692483426107000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND5v-6e54ADFQAAAAAdAAAAABAE)
+![image](https://atitudereflexiva.files.wordpress.com/2016/05/rock-paper-spock.jpg)
