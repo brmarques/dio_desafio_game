@@ -5,16 +5,16 @@ O jogo consiste na versão do seriado The Big Bang Theory para o "Pedra, Papel e
 
 Regras
 As regras de Pedra-papel-tesoura-lagarto-Spock são:
-.  Tesoura corta papel
-.  Papel cobre pedra
-.  Pedra esmaga lagarto
-.  Lagarto envenena Spock
-.  Spock esmaga (ou derrete) tesoura
-.  Tesoura decapita lagarto
-.  Lagarto come papel
-.  Papel refuta Spock
-.  Spock vaporiza pedra
-.  Pedra amassa tesoura
+<ul><li>Tesoura corta papel</li>
+<li>Papel cobre pedra</li>
+<li>Pedra esmaga lagarto</li>
+<li>Lagarto envenena Spock</li>
+<li>Spock esmaga (ou derrete) tesoura</li>
+<li>Tesoura decapita lagarto</li>
+<li>Lagarto come papel</li>
+<li>Papel refuta Spock</li>
+<li>Spock vaporiza pedra</li>
+<li>Pedra amassa tesoura</li></ul>
 
 
 ![image](https://atitudereflexiva.files.wordpress.com/2016/05/rock-paper-spock.jpg)
