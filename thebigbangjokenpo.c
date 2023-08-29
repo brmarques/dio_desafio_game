@@ -1,12 +1,3 @@
-/*
-A relação correta das vitórias no jogo "Pedra, Papel, Tesoura, Lagarto e Spock" é a seguinte:
-
-    - Pedra esmaga Tesoura e esmaga Lagarto
-    - Papel cobre Pedra e desaprova Spock
-    - Tesoura corta Papel e decapita Lagarto
-    - Lagarto come Papel e envenena Spock
-    - Spock quebra Tesoura e vaporiza Pedra
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
