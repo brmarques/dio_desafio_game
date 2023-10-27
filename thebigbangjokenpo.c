@@ -3,7 +3,7 @@
 #include <time.h>
 
 int main() {
-    srand(time(NULL));  // Inicializa a semente para geração de números aleatórios
+    srand(time(NULL));  //Geração de números aleatórios
 
     char *opcoes[5] = {"Pedra", "Papel", "Tesoura", "Lagarto", "Spock"};
 /*
@@ -78,8 +78,6 @@ int main() {
         { 2,  1,   4,     0,     1  },  // Lagarto
         { 1,  4,   1,     4,     0  }   // Spock
     };
-
-
 
     printf("Bem-vindo ao Pedra, Papel, Tesoura, Lagarto e Spock!\n");
 
